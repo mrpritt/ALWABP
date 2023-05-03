@@ -22,7 +22,6 @@ This respository contains the instances and supplementary data used in Borba, Ri
 ## How to cite
 
 ```bibtex
-%%%%% 2014 (6+3)
 @Article{Borba.Ritt/2014,
   author =   {Leonardo M. Borba and Marcus Ritt},
   title =    {A heuristic and a branch-and-bound algorithm for the assembly line worker assignment and balancing problem},
